@@ -16,7 +16,7 @@ a:hover {
 
 .container {
    border: 1px solid red;
-   max-width: 90%;
+   max-width: 1440px;
    min-width: 600px;
    margin: auto;
 }
